@@ -1,0 +1,14 @@
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\bin\Debug\net9.0\cwc.exe
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\bin\Debug\net9.0\cwc.deps.json
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\bin\Debug\net9.0\cwc.runtimeconfig.json
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\bin\Debug\net9.0\cwc.dll
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\bin\Debug\net9.0\cwc.pdb
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.AssemblyInfoInputs.cache
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.AssemblyInfo.cs
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.csproj.CoreCompileInputs.cache
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.dll
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\refint\cwc.dll
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.pdb
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\cwc.genruntimeconfig.cache
+G:\Projetos Treino\c sharp\CsharpProjects\cwc\obj\Debug\net9.0\ref\cwc.dll
